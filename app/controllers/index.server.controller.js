@@ -1,5 +1,5 @@
 exports.render = function(req, res) {
     res.render('index', {
-        title: 'Howdy World'
+        title: 'Hello World is the title of our application.'
     })
 };
